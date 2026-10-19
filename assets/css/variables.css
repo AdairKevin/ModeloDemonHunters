@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;700&display=swap");
+/* Paleta del modelo Modelo Demon Hunters: edita aquí colores y tipografías */
+:root {
+  --color-primary: #e0218a;
+  --color-secondary: #1a1033;
+  --color-accent: #7b2ff7;
+  --color-bg: #0d0820;
+  --color-card: #22163f;
+  --color-text: #f5f0ff;
+  --font-title: "Bebas Neue", cursive;
+  --font-text: "Poppins", sans-serif;
+}
